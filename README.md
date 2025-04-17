@@ -18,7 +18,7 @@
 
 - Интерфейс: XML
 
-- База данных: SQLite (через SQLiteOpenHelper)
+- База данных: SQLite 
 
 - Среда разработки: Android Studio
 
